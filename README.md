@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Top Of Tech</h1>
 <h3 align="center">I love to code! Maybe check out some of my projects?</h3>
 
-- 🔭 I’m currently working on **A web browser made in python**
+- 🔭 I’m currently working on **An algorithm visualizer**
 
 - 🌱 I’m currently learning **C++**
 
