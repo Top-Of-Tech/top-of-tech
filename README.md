@@ -21,7 +21,7 @@
 
 <h3 align="center"> 🏆 GitHub Trophies </h3>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarebear12418&theme=onedark" alt="jarebear12418" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Top-Of-Tech&theme=onedark" alt="Top-Of-Tech" />
 </p>
 
 <h3 align="center"> 🗂️ Highlight Projects  </h3>
