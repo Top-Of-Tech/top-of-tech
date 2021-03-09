@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Connection-Software&repo=Connection-Software-Browser&theme=darcula" alt="Connection-Software-Browser" />
 </a>
 <a href="https://github.com/Top-Of-Tech/VizCDT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Top-Of-Tech&repo=Bank-Bot&theme=darcula" alt="Bank-Bot" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Top-Of-Tech&repo=VizCDT&theme=darcula" alt="VizCDT" />
 </a>
 </p>
 
