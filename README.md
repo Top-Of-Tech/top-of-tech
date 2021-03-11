@@ -57,7 +57,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://stackoverflow.com/users/13932266" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12139409" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCNOTjM8KuII2Zvzwc8vmMoQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCNOTjM8KuII2Zvzwc8vmMoQ" height="30" width="40" /></a>
-<a href="https://discord.gg/4CE3AqVKtA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="4CE3AqVKtA" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13932266" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="https://stackoverflow.com/users/13932266" width="10%" /></a>
+<a href="https://www.youtube.com/channel/UCNOTjM8KuII2Zvzwc8vmMoQ" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="https://www.youtube.com/channel/UCNOTjM8KuII2Zvzwc8vmMoQ" width="10%" /></a>
+<a href="https://discord.gg/4CE3AqVKtA" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="https://discord.gg/4CE3AqVKtA" width="10%" /></a>
 </p>
