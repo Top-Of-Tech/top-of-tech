@@ -42,6 +42,7 @@
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--DidaA-vY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto%2Cfl_lossy%2Cq_auto/s3-ghost/2019/02/Flask.png"></code>
+<code><img width="10%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rCQNpUo9tueWA9q3EFnUDQHaDQ%26pid%3DApi&f=1"</code>
 <br />
 
 </p>
