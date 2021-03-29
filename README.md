@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm Top Of Tech</h1>
 <h3 align="center">I love to code! Maybe check out some of my projects?</h3>
 
-- 🔭 I’m currently working on **An algorithm visualizer**
+- 🔭 I’m currently working on **A website to visualize projects**
 
 - 🌱 I’m currently learning **C++**
 
