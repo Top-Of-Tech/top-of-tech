@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A website to visualize projects**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and Java**
 
 - 💬 Ask me about **Python, HTML & CSS, JavaScript, Lua, or C++**
 
