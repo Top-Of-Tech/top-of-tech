@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Java**
 
-- 💬 Ask me about **Python, HTML & CSS, JavaScript, Lua, Java, or C++**
+- 💬 Ask me about **Python, HTML & CSS, JavaScript, Java, or C++**
 
 - 📫 How to reach me **joshuakusmanoff@gmail.com**
 
