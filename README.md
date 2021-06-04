@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Redoing my portfolio!**
 
-- 🌱 I’m currently learning **C++ and Java**
+- 🌱 I’m currently learning **C# and ReactJS**
 
-- 💬 Ask me about **Python, HTML & CSS, JavaScript, Java, or C++**
+- 💬 Ask me about **Python, HTML & CSS, JavaScript, or C#*
 
 - 📫 How to reach me **joshuakusmanoff@gmail.com**
 
