@@ -1,64 +1,30 @@
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm Top Of Tech</h1>
-<h3 align="center">I love to code! Maybe check out some of my projects?</h3>
+## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- 🔭 I’m currently working on **Redoing my portfolio!**
+I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
 
-- 🌱 I’m currently learning **ReactJS and Rust**
+:mailbox: Reach me out!
 
-- 💬 Ask me about **Python, HTML & CSS, JavaScript, or Rust**
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
 
-- 📫 How to reach me **joshuakusmanoff@gmail.com**
+<!-- TODO: Add last video link -->
 
-<br/>
-<br/>
+- 🔭 I’m currently working at @Toptal
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Outstanding Video ideas.
+- 📫 How to reach me: islempenywis@gmail.com.
+- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- ⚡ Fun fact: I play games and go to the GYM very often.
 
-<h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Top-Of-Tech&theme=darcula" alt="Top-Of-Tech" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Top-Of-Tech&theme=darcula&layout=compact" alt="Top-Of-Tech" width="350" height="140"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Top-Of-Tech&theme=darcula" alt="Top-Of-Tech" width="350" height="140"/>
-</p>
+#### Top Technologies
 
-<h3 align="center"> 🏆 GitHub Trophies </h3>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Top-Of-Tech&theme=onedark" alt="Top-Of-Tech" />
-</p>
+<!-- TODO: Make technologies links takes you to repositories -->
 
-<h3 align="center"> 🗂️ Highlight Projects  </h3>
-<p align="center">
-<a href="https://github.com/adri711/classroom-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adri711&repo=classroom-manager&theme=darcula" alt="Classroom-Manager" />
-</a>
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-<a href="https://github.com/Top-Of-Tech/VizCDT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Top-Of-Tech&repo=VizCDT&theme=darcula" alt="VizCDT" />
-</a>
-</p>
+#### Business
+- :email: joshuakusmanoff@gmail.com
 
-<h1 align="center">What I use:</h1>
-<h3 align="center">Languages and Frameworks:</h3>
-<p align="center">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--DidaA-vY--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/dukp6c7f7/image/upload/f_auto%2Cfl_lossy%2Cq_auto/s3-ghost/2019/02/Flask.png"></code>
-<code><img width="10%" src="html-css.png"</code>
-<code><img width="10%" height="50%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Vars82SckhgkKAHhFiPYHAAAAA%26pid%3DApi&f=1"</code>
-<br />
 
-</p>
-<h3 align="center">Tools:</h3>
-<p align="center">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
- <code><img width="10%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.peq0dTP1nNZBxqKlw1wgpgHaCh%26pid%3DApi&f=1"</code>
-</p>
+#### Profile Visits 
 
-<h3 align="center">Platforms:</h3>
-<p align="center">
-<code><img width="8%" src="https://www.psdbox.com/wp-content/uploads/2011/01/Windows-logo.png"></code>
-</p>
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://stackoverflow.com/users/13932266" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg" alt="https://stackoverflow.com/users/13932266" width="10%" /></a>
-<a href="https://www.youtube.com/channel/UCNOTjM8KuII2Zvzwc8vmMoQ" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg" alt="https://www.youtube.com/channel/UCNOTjM8KuII2Zvzwc8vmMoQ" width="10%" /></a>
-<a href="https://discord.gg/4CE3AqVKtA" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt="https://discord.gg/4CE3AqVKtA" width="10%" /></a>
-</p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=top-of-tech.tech-of-tech)
