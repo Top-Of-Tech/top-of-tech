@@ -4,7 +4,7 @@ I'm Top Of Tech a developer. I Spend most of time coding outstanding projects or
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:joshuakusmanoff@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Top Of Tech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNOTjM8KuII2Zvzwc8vmMoQ) [![Mail Badge](https://img.shields.io/badge/-Top Of Tech-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:joshuakusmanoff@gmail.com)
 
 <!-- TODO: Add last video link -->
 
