@@ -2,10 +2,6 @@
 
 I'm Top Of Tech a developer. I Spend most of time coding outstanding projects or recording videos.
 
-:mailbox: Reach me out!
-
-[![Mail Badge](https://img.shields.io/badge/-Top Of Tech-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNOTjM8KuII2Zvzwc8vmMoQ) [![Mail Badge](https://img.shields.io/badge/-Top Of Tech-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:joshuakusmanoff@gmail.com)
-
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Toptal
@@ -15,10 +11,11 @@ I'm Top Of Tech a developer. I Spend most of time coding outstanding projects or
 - ⚡ Fun fact: I enjoy ethical hacking and networking
 
 #### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+Python
+JavaScript
+HTML & CSS
+Node.js
+C++
 
 #### Business
 - :email: joshuakusmanoff@gmail.com
