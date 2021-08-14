@@ -10,10 +10,10 @@ I'm Top Of Tech, a developer and ethical hacker.
 - ⚡ Fun fact: I enjoy ethical hacking and networking
 
 #### Top Technologies
-Python
-JavaScript
-HTML & CSS
-Node.js
+Python  
+JavaScript  
+HTML & CSS  
+Node.js  
 C++
 
 #### Business
