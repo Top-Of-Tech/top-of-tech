@@ -1,12 +1,11 @@
 ## Hi I'm Top Of Tech <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Top Of Tech a developer. I Spend most of time coding outstanding projects or recording videos.
+I'm Top Of Tech a developer. I pend most of time coding projects or recording videos.
 
-<!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+
+- 🔭 I’m currently working on my website
 - :computer: Most used line of code `print("Hello")`
-- 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: joshuakusmanoff@gmail.com.
 - ⚡ Fun fact: I enjoy ethical hacking and networking
 
