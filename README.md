@@ -2,8 +2,6 @@
 
 I'm Top Of Tech, a developer and ethical hacker.
 
-
-
 - 🔭 I’m currently working on my website
 - :computer: Most used line of code `print("Hello")`
 - 📫 How to reach me: joshuakusmanoff@gmail.com.
