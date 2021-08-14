@@ -12,7 +12,7 @@ I'm Top Of Tech a developer. I Spend most of time coding outstanding projects or
 - :computer: Most used line of code `print("Hello")`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: joshuakusmanoff@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: I enjoy ethical hacking and networking
 
 #### Top Technologies
 
