@@ -3,6 +3,7 @@
 I'm Top Of Tech, a developer and ethical hacker.
 
 - 🔭 I’m currently working on my website
+- 🌳 I'm learning C++ and Assembly
 - 📫 How to reach me: joshuakusmanoff@gmail.com.
 - ⚡ Fun fact: I enjoy ethical hacking and networking
 
