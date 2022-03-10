@@ -16,8 +16,3 @@ C++
 
 #### Business
 - :email: joshuakusmanoff@gmail.com
-
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=top-of-tech.tech-of-tech)
