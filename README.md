@@ -2,8 +2,8 @@
 
 I'm Top Of Tech, a developer and ethical hacker.
 
-- 🔭 I’m currently working on a day trading bot in python
-- 🌳 I'm learning C# and AI
+- 🔭 I’m currently working on Autharian
+- 🌳 I'm learning C++
 - 📫 How to reach me: joshuakusmanoff@gmail.com.
 - ⚡ Fun fact: I enjoy ethical hacking and networking
 
