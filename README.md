@@ -2,7 +2,7 @@
 
 I'm Top Of Tech, a developer and ethical hacker.
 
-- 🔭 I’m currently working on Autharian
+- 🔭 I’m currently working on ![Autharian](https://github.com/AutharianTeam/Autharian)
 - 🌳 I'm learning C++
 - 📫 How to reach me: joshuakusmanoff@gmail.com.
 - ⚡ Fun fact: I enjoy ethical hacking and networking
