@@ -11,7 +11,6 @@ I'm Top Of Tech, a developer and ethical hacker.
 Python  
 JavaScript  
 HTML & CSS  
-Node.js  
 Rust
 
 #### Business
