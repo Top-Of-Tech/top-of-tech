@@ -10,6 +10,7 @@ I'm Top Of Tech, a developer and ethical hacker.
 #### Top Technologies
 Python  
 JavaScript  
+Lua  
 HTML & CSS  
 Rust
 
