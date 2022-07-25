@@ -9,10 +9,10 @@ I'm Top Of Tech, a developer and ethical hacker.
 
 #### Top Technologies
 Python  
-JavaScript  
-Lua  
+JavaScript    
 HTML & CSS  
-Rust
+Rust  
+Lua  
 
 #### Business
 - :email: joshuakusmanoff@gmail.com
