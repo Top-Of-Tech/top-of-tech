@@ -1,18 +1,11 @@
-## Hi I'm Top Of Tech <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# About me
 
-I'm Top Of Tech, a developer and ethical hacker.
+I'm Top Of Tech. I know Python, JavaScript, HTML & CSS, Rust, and Lua. I also enjoy networking and ethical hacking.
 
-- 🔭 I’m currently working on ![Autharian](https://github.com/AutharianTeam/Autharian)
-- 🌳 I'm learning Rust
-- 📫 How to reach me: joshuakusmanoff@gmail.com.
-- ⚡ Fun fact: I enjoy ethical hacking and networking
+# Stats
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Top-Of-Techhide=issues&show_icons=true&theme=gotham)
 
-#### Top Technologies
-Python  
-JavaScript    
-HTML & CSS  
-Rust  
-Lua  
+![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Of-Tech&layout=compact&theme=gotham)
 
-#### Business
-- :email: joshuakusmanoff@gmail.com
+# Currently working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Top-Of-Tech&repo=Autharian&theme=gotham)](https://github.com/Top-Of-Tech/Autharian)
