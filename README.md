@@ -8,4 +8,4 @@ I'm Top Of Tech. I know Python, JavaScript, HTML & CSS, Rust, and Lua. I also en
 ![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Of-Tech&layout=compact&theme=gotham)
 
 # Currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Top-Of-Tech&repo=Autharian&theme=gotham)](https://github.com/Top-Of-Tech/Autharian)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AutharianTeam&repo=Autharian&theme=gotham)](https://github.com/Top-Of-Tech/Autharian)
