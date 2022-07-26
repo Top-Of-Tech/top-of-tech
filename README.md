@@ -3,7 +3,7 @@
 I'm Top Of Tech. I know Python, JavaScript, HTML & CSS, Rust, and Lua. I also enjoy networking and ethical hacking.
 
 # Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Top-Of-Techhide=issues&show_icons=true&theme=gotham)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Top-Of-Tech&hide=issues&show_icons=true&theme=gotham)
 
 ![Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Of-Tech&layout=compact&theme=gotham)
 
